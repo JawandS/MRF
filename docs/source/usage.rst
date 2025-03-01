@@ -20,7 +20,7 @@ First order of business is to import MRF and matplotlib, a useful plotting packa
 .. code-block:: python
 
    pip install MacroRandomForest
-   from MRF import *
+   from MacroRandomForest import *
    import matplotlib.pyplot as plt
 
 As a way to get started, we have included a dataset of simulated variables which is easy to download from Google Drive:
